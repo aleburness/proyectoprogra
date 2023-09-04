@@ -1,0 +1,4 @@
+notas = ['Do', 'Re', 'Mi', 'Fa', 'Sol', 'La', 'Si']
+
+musica = [notas[6], notas[6], notas[0], notas[1], notas[1], notas[0], notas[6], notas[5], notas[4], notas[4], notas[5], notas[6], notas[6], notas[5], notas[5]]
+print(musica)
